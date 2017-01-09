@@ -1,2 +1,3 @@
 # Serve
-# 버튼이랑 포스트방식으로 하는거 콘솔 로드로 채킹했음.
+# Next Step - Input Query list of Mongodb's Data
+# By Yunhyeok Lee
